@@ -1,1 +1,1 @@
-CHAIR & UA,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/MWIII_UA_V4.exe
+CHAIR & UA,online,1.00.02,https://cdn.discordapp.com/attachments/1224474435105591448/1261628269506203670/HANA_V2_UACHAIR_LOADER.exe?ex=66999523&is=669843a3&hm=92450f9576e05ff45b4ddf085e67507e1ade6fedb9ef16fb453d2c1df9171f0a&
